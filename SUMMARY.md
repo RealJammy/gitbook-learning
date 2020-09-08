@@ -1,9 +1,6 @@
 # Table of contents
 
-* [Software level attacks on \(micro\) Architecture](README.md)
-* [Computer Science and Cybersec](untitled.md)
-
-## Session-1
+* [Welcome](README.md)
 
 ## Cyber Sec <a id="cybersec"></a>
 
@@ -20,11 +17,11 @@
     * [Shellcode](cybersec/binary-exploitation/attacks/shellcode.md)
     * [Ret2libc](cybersec/binary-exploitation/attacks/ret2libc.md)
   * [Defences](cybersec/binary-exploitation/untitled/README.md)
-    * [Defence: NX + page tables](cybersec/binary-exploitation/untitled/nx.md)
-    * [Defence: Stack Canaries](cybersec/binary-exploitation/untitled/stack-canaries.md)
-    * [Defence: Shadow stacks \(Intel CET\)](cybersec/binary-exploitation/untitled/defence-shadow-stacks-intel-cet.md)
-    * [Defence: ASLR](cybersec/binary-exploitation/untitled/aslr.md)
-    * [Defence: Randomising struct layout](cybersec/binary-exploitation/untitled/defence-randomising-struct-layout.md)
+    * [NX + page tables](cybersec/binary-exploitation/untitled/nx.md)
+    * [Stack Canaries](cybersec/binary-exploitation/untitled/stack-canaries.md)
+    * [Shadow stacks \(Intel CET\)](cybersec/binary-exploitation/untitled/defence-shadow-stacks-intel-cet.md)
+    * [ASLR](cybersec/binary-exploitation/untitled/aslr.md)
+    * [Randomising struct layout](cybersec/binary-exploitation/untitled/defence-randomising-struct-layout.md)
 
 ## Computer Science
 
