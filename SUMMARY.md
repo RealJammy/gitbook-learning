@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Learning](README.md)
 
 ## Cyber Sec <a id="cybersec"></a>
 
