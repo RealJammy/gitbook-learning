@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Learning](README.md)
+* [EuanB Resources](README.md)
 
 ## Cyber Sec <a id="cybersec"></a>
 

@@ -1,4 +1,4 @@
-# Learning
+# EuanB Resources
 
 Here is where I will store my resources!
 
