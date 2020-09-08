@@ -1,10 +1,6 @@
 # EuanB Resources
 
-Here is where I will store my resources!
-
 I will be going into a lot of detail about computer science concepts, as well as cyber security related content. With the nature of this, we're going to need to learn some programming, so there shall also be a section on programming.
-
-Here is a full list of everything on here:
 
 * [List](cybersec/list.md)
 * [Binary exploitation](cybersec/binary-exploitation/)
