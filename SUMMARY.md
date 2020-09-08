@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Software level attacks on \(micro\) Architecture](README.md)
-* [Untitled](untitled.md)
+* [Computer Science and Cybersec](untitled.md)
 
 ## Session-1
 
@@ -18,4 +18,16 @@
 * [Defence: Randomising struct layout](session-1/defence-randomising-struct-layout.md)
 * [Control Flow Graphs](session-1/control-flow-graphs.md)
 * [Challenges of Precise CFG](session-1/challenges-of-precise-cfg.md)
+
+## Cyber Sec <a id="cybersec"></a>
+
+* [Untitled](cybersec/untitled.md)
+
+## Computer Science
+
+* [Untitled](computer-science/untitled.md)
+
+## Programming
+
+* [Untitled](programming/untitled.md)
 
