@@ -9,7 +9,7 @@
   * [Theory](cybersec/binary-exploitation/theory/README.md)
     * [Virtual Address Space](cybersec/binary-exploitation/theory/virtual-address-space.md)
     * [System V Calling Conventions](cybersec/binary-exploitation/theory/system-v-calling-conventions.md)
-    * [Side note: OS doesn't detect BOF?](cybersec/binary-exploitation/theory/side-note-os-doesnt-detect-bof.md)
+    * [Why doesn't the OS detect BOF?](cybersec/binary-exploitation/theory/side-note-os-doesnt-detect-bof.md)
     * [Control Flow Graphs](cybersec/binary-exploitation/theory/control-flow-graphs.md)
     * [Challenges of Precise CFG](cybersec/binary-exploitation/theory/challenges-of-precise-cfg.md)
   * [Attacks](cybersec/binary-exploitation/attacks/README.md)
@@ -25,9 +25,9 @@
 
 ## Computer Science
 
-* [Untitled](computer-science/untitled.md)
+* [List-cs](computer-science/untitled.md)
 
 ## Programming
 
-* [Untitled](programming/untitled.md)
+* [List-program](programming/untitled.md)
 
