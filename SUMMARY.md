@@ -12,6 +12,7 @@
     * [Why doesn't the OS detect BOF?](cybersec/binary-exploitation/theory/side-note-os-doesnt-detect-bof.md)
     * [Control Flow Graphs](cybersec/binary-exploitation/theory/control-flow-graphs.md)
     * [Challenges of Precise CFG](cybersec/binary-exploitation/theory/challenges-of-precise-cfg.md)
+    * [GOT and PLT](cybersec/binary-exploitation/theory/got-and-plt.md)
   * [Attacks](cybersec/binary-exploitation/attacks/README.md)
     * [Buffer Overflows \(BOFs\)](cybersec/binary-exploitation/attacks/buffer-overflows-bofs.md)
     * [Shellcode](cybersec/binary-exploitation/attacks/shellcode.md)
