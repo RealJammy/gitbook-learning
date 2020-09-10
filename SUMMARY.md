@@ -22,6 +22,7 @@
     * [Shadow stacks \(Intel CET\)](cybersec/binary-exploitation/untitled/defence-shadow-stacks-intel-cet.md)
     * [ASLR](cybersec/binary-exploitation/untitled/aslr.md)
     * [Randomising struct layout](cybersec/binary-exploitation/untitled/defence-randomising-struct-layout.md)
+    * [RELRO](cybersec/binary-exploitation/untitled/relro.md)
 
 ## Computer Science
 

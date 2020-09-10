@@ -20,6 +20,7 @@ I will be going into a lot of detail about computer science concepts, as well as
     * [Shadow stacks \(Intel CET\)](cybersec/binary-exploitation/untitled/defence-shadow-stacks-intel-cet.md)
     * [ASLR](cybersec/binary-exploitation/untitled/aslr.md)
     * [Randomising struct layout](cybersec/binary-exploitation/untitled/defence-randomising-struct-layout.md)
+    * [RELRO](cybersec/binary-exploitation/untitled/relro.md)
 
 * [List-cs](computer-science/untitled.md)
 
