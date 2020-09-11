@@ -39,7 +39,7 @@
   * [Fetch Decode Execute](computer-science/processors/fetch-decode-execute.md)
   * [Factors Affecting Performance](computer-science/processors/factors-affecting-performance.md)
   * [Pipelining](computer-science/processors/pipelining.md)
-  * [Von Neumann, Harvard Architecture adn Contemporary Processors](computer-science/processors/von-neumann-harvard-architecture-adn-contemporary-processors.md)
+  * [Von Neumann, Harvard Architecture and Contemporary Processors](computer-science/processors/von-neumann-harvard-architecture-adn-contemporary-processors.md)
   * [CISC vs RISC](computer-science/processors/cisc-vs-risc.md)
   * [GPUs](computer-science/processors/gpus.md)
   * [Multi core and parallel processing](computer-science/processors/multi-core-and-parallel-processing.md)
