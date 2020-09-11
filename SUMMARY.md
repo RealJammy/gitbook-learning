@@ -36,6 +36,11 @@
     * [ASLR](cybersec/binary-exploitation/untitled/aslr.md)
     * [Randomising struct layout](cybersec/binary-exploitation/untitled/defence-randomising-struct-layout.md)
     * [RELRO](cybersec/binary-exploitation/untitled/relro.md)
+  * [Defeating Defences](cybersec/binary-exploitation/defeating-defences/README.md)
+    * [Defeating Stack Canaries](cybersec/binary-exploitation/defeating-defences/defeating-stack-canaries.md)
+    * [Defeating ASLR and PIE](cybersec/binary-exploitation/defeating-defences/defeating-aslr-and-pie.md)
+    * [Defeating NX](cybersec/binary-exploitation/defeating-defences/defeating-nx.md)
+    * [Defeating RELRO](cybersec/binary-exploitation/defeating-defences/defeating-relro.md)
 
 ## Computer Science
 
