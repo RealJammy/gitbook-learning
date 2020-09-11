@@ -34,8 +34,34 @@
 ## Computer Science
 
 * [List-cs](computer-science/untitled.md)
+* [Processors](computer-science/processors/README.md)
+  * [Structure of processors](computer-science/processors/structure-of-processors.md)
+  * [Fetch Decode Execute](computer-science/processors/fetch-decode-execute.md)
+  * [Factors Affecting Performance](computer-science/processors/factors-affecting-performance.md)
+  * [Pipelining](computer-science/processors/pipelining.md)
+  * [Von Neumann, Harvard Architecture adn Contemporary Processors](computer-science/processors/von-neumann-harvard-architecture-adn-contemporary-processors.md)
+  * [CISC vs RISC](computer-science/processors/cisc-vs-risc.md)
+  * [GPUs](computer-science/processors/gpus.md)
+  * [Multi core and parallel processing](computer-science/processors/multi-core-and-parallel-processing.md)
+* [Inputs and Outputs](computer-science/inputs-and-outputs/README.md)
+  * [Magnetic, Flash, Optical Storage](computer-science/inputs-and-outputs/magnetic-flash-optical-storage.md)
+  * [RAM and ROM](computer-science/inputs-and-outputs/ram-and-rom.md)
+  * [Virtual Storage](computer-science/inputs-and-outputs/virtual-storage.md)
 
 ## Programming
 
 * [List-program](programming/untitled.md)
+* [Python](programming/python.md)
+* [C](programming/c.md)
+* [C++](programming/c++.md)
+* [Rust](programming/rust.md)
+* [Assembly \(asm\)](programming/assembly-asm/README.md)
+  * [Intel Syntax](programming/assembly-asm/intel-syntax.md)
+  * [AT&T syntax](programming/assembly-asm/at-and-t-syntax.md)
+* [Java](programming/java.md)
+* [Powershell](programming/powershell.md)
+* [Bash](programming/bash.md)
+* [SQL](programming/sql.md)
+* [Verilog](programming/verilog.md)
+* [Markdown](programming/markdown.md)
 
