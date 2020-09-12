@@ -4,6 +4,8 @@ I will be going into a lot of detail about computer science concepts, as well as
 
 Anything marked with `***` needs to be done
 
+## Cyber Security
+
 * [List](cybersec/list.md)
 * [Binary exploitation](cybersec/binary-exploitation/)
   * [Theory](cybersec/binary-exploitation/theory/)
@@ -42,6 +44,8 @@ Anything marked with `***` needs to be done
     * \*\*\* [Defeating NX](cybersec/binary-exploitation/defeating-defences/defeating-nx.md)
     * \*\*\*[ Defeating RELRO](cybersec/binary-exploitation/defeating-defences/defeating-relro.md)
 
+## Computer Science
+
 [https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
 
 * [List-cs](computer-science/untitled.md)
@@ -58,6 +62,8 @@ Anything marked with `***` needs to be done
   * \*\*\* [Magnetic, Flash, Optical Storage](computer-science/inputs-and-outputs/magnetic-flash-optical-storage.md)
   * \*\*\* [RAM and ROM](computer-science/inputs-and-outputs/ram-and-rom.md)
   * \*\*\* [Virtual Storage](computer-science/inputs-and-outputs/virtual-storage.md)
+
+## Programming Languages
 
 * [List-program](programming/untitled.md)
 * \*\*\* [Python](programming/python.md)
