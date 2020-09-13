@@ -1,3 +1,9 @@
 {
-    "plugins": ["collapsible-menu", "toggle-chapters", "page-treeview"]
+    "plugins": ["collapsible-menu", "toggle-chapters", "page-treeview"],
+    "pluginsConfig": {
+        "page-treeview": {
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        }
+    }
 }
