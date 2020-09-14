@@ -4,6 +4,10 @@ I will be going into a lot of detail about computer science concepts, as well as
 
 Anything marked with `***` needs to be done 
 
+## Contact
+
+[Contact](contact.md)
+
 ## Cyber Security
 
 * [List](cybersec/list.md)
