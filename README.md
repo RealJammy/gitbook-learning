@@ -49,7 +49,7 @@ Anything marked with `***` needs to be done
 
 [https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
 
-* [List-cs](computer-science/untitled.md)
+* [List-cs](computer-science/list-cs.md)
 * [Processors](computer-science/processors/)
   * \*\*\* [Structure of processors](computer-science/processors/structure-of-processors.md)
   * \*\*\* [Fetch Decode Execute](computer-science/processors/fetch-decode-execute.md)
@@ -66,7 +66,7 @@ Anything marked with `***` needs to be done
 
 ## Programming Languages
 
-* [List-program](programming/untitled.md)
+* [List-program](programming/list-program.md)
 * \*\*\* [Python](programming/python.md)
 * \*\*\* [C](programming/c.md)
 * \*\*\* [C++](programming/c++.md)

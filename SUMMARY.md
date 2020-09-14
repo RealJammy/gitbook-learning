@@ -1,6 +1,7 @@
 # Table of contents
 
 * [EuanB Resources](README.md)
+* [Contact](contact.md)
 
 ## Cyber Sec <a id="cybersec"></a>
 
@@ -45,7 +46,7 @@
 
 ## Computer Science
 
-* [List-cs](computer-science/untitled.md)
+* [List-cs](computer-science/list-cs.md)
 * [Processors](computer-science/processors/README.md)
   * [Structure of processors](computer-science/processors/structure-of-processors.md)
   * [Fetch Decode Execute](computer-science/processors/fetch-decode-execute.md)
@@ -62,7 +63,7 @@
 
 ## Programming
 
-* [List-program](programming/untitled.md)
+* [List-program](programming/list-program.md)
 * [Python](programming/python.md)
 * [C](programming/c.md)
 * [C++](programming/c++.md)
