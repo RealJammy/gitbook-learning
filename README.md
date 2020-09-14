@@ -37,7 +37,7 @@ Anything marked with `***` needs to be done
     * [Shadow stacks \(Intel CET\)](cybersec/binary-exploitation/untitled/defence-shadow-stacks-intel-cet.md)
     * [ASLR](cybersec/binary-exploitation/untitled/aslr.md)
     * [Randomising struct layout](cybersec/binary-exploitation/untitled/defence-randomising-struct-layout.md)
-    * \*\*\* [RELRO](cybersec/binary-exploitation/untitled/relro.md)
+    * [RELRO](cybersec/binary-exploitation/untitled/relro.md)
   * \*\*\* [Defeating Defences](cybersec/binary-exploitation/defeating-defences/)
     * \*\*\* [Defeating Stack Canaries](cybersec/binary-exploitation/defeating-defences/defeating-stack-canaries.md)
     * \*\*\* [Defeating ASLR and PIE](cybersec/binary-exploitation/defeating-defences/defeating-aslr-and-pie.md)
