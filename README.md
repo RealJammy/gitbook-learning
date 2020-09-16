@@ -10,6 +10,8 @@ Anything marked with `***` needs to be done
 
 ## Cyber Security
 
+* [List cybersec](cybersec/list-cybersec.md)
+
 ### Binary Exploitation
 
 * [Binary exploitation](cybersec/binary-exploitation/)

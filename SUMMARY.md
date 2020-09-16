@@ -5,6 +5,7 @@
 
 ## Cyber Sec <a id="cybersec"></a>
 
+* [List cybersec](cybersec/list-cybersec.md)
 * [Binary exploitation](cybersec/binary-exploitation/README.md)
   * [Theory](cybersec/binary-exploitation/theory/README.md)
     * [Virtual Address Space](cybersec/binary-exploitation/theory/virtual-address-space.md)
