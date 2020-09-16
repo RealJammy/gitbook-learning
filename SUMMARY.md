@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EuanB Resources](README.md)
+* [EuanB26 Resources](README.md)
 * [Contact](contact.md)
 
 ## Cyber Sec <a id="cybersec"></a>
