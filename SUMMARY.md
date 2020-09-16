@@ -35,7 +35,7 @@
       * [Ret2libc](cybersec/binary-exploitation/attacks/stack/ret2libc.md)
       * [Format strings](cybersec/binary-exploitation/attacks/stack/format-strings/README.md)
         * [Fuzzer](cybersec/binary-exploitation/attacks/stack/format-strings/fuzzer.md)
-      * [Stack Pivotting](cybersec/binary-exploitation/attacks/stack/stack-pivotting.md)
+      * [Stack Pivoting](cybersec/binary-exploitation/attacks/stack/stack-pivotting.md)
       * [SIGROP](cybersec/binary-exploitation/attacks/stack/sigrop.md)
       * [Ret2csu](cybersec/binary-exploitation/attacks/stack/ret2csu.md)
     * [Heap](cybersec/binary-exploitation/attacks/heap.md)
