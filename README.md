@@ -10,7 +10,8 @@ Anything marked with `***` needs to be done
 
 ## Cyber Security
 
-* [List](cybersec/list.md)
+### Binary Exploitation
+
 * [Binary exploitation](cybersec/binary-exploitation/)
   * [Theory](cybersec/binary-exploitation/theory/)
     * [Virtual Address Space](cybersec/binary-exploitation/theory/virtual-address-space.md)
@@ -41,7 +42,7 @@ Anything marked with `***` needs to be done
       * [Format strings](cybersec/binary-exploitation/attacks/stack/format-strings/)
         * [Fuzzer](cybersec/binary-exploitation/attacks/stack/format-strings/fuzzer.md)
       * [Stack Pivoting](cybersec/binary-exploitation/attacks/stack/stack-pivotting.md)
-      * \*\*\* [SIGROP](cybersec/binary-exploitation/attacks/stack/sigrop.md)
+      * \*\*\* [\(SIG\)ROP](cybersec/binary-exploitation/attacks/stack/sigrop.md)
       * \*\*\* [Ret2csu](cybersec/binary-exploitation/attacks/stack/ret2csu.md) 
     * [Heap](cybersec/binary-exploitation/attacks/heap.md)
   * \*\*\* [Defeating Defences](cybersec/binary-exploitation/defeating-defences/)
