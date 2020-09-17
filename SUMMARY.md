@@ -26,6 +26,7 @@
     * [Stack Canaries](cybersec/binary-exploitation/untitled/stack-canaries.md)
     * [Shadow stacks \(Intel CET\)](cybersec/binary-exploitation/untitled/defence-shadow-stacks-intel-cet.md)
     * [ASLR](cybersec/binary-exploitation/untitled/aslr.md)
+    * [Why move from 32 to 64 bit?](cybersec/binary-exploitation/untitled/why-move-from-32-to-64-bit.md)
     * [Randomising struct layout](cybersec/binary-exploitation/untitled/defence-randomising-struct-layout.md)
     * [RELRO](cybersec/binary-exploitation/untitled/relro.md)
   * [Attacks](cybersec/binary-exploitation/attacks/README.md)
