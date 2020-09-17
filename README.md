@@ -44,7 +44,7 @@ Anything marked with `***` needs to be done
       * [Format strings](cybersec/binary-exploitation/attacks/stack/format-strings/)
         * [Fuzzer](cybersec/binary-exploitation/attacks/stack/format-strings/fuzzer.md)
       * [Stack Pivoting](cybersec/binary-exploitation/attacks/stack/stack-pivotting.md)
-      * \*\*\* [\(SIG\)ROP](cybersec/binary-exploitation/attacks/stack/sigrop.md)
+      * [\(SIG\)ROP](cybersec/binary-exploitation/attacks/stack/sigrop.md)
       * \*\*\* [Ret2csu](cybersec/binary-exploitation/attacks/stack/ret2csu.md) 
     * [Heap](cybersec/binary-exploitation/attacks/heap.md)
   * \*\*\* [Defeating Defences](cybersec/binary-exploitation/defeating-defences/)
