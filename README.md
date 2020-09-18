@@ -22,6 +22,7 @@ Anything marked with `***` needs to be done
     * [Control Flow Graphs](cybersec/binary-exploitation/theory/control-flow-graphs.md)
     * [Challenges of Precise CFG](cybersec/binary-exploitation/theory/challenges-of-precise-cfg.md)
     * [GOT and PLT](cybersec/binary-exploitation/theory/got-and-plt.md)
+    * [Static vs Dynamic Linking](cybersec/binary-exploitation/theory/static-vs-dynamic-linking.md)
     * [Endianness](cybersec/binary-exploitation/theory/endianness.md)
     * [Pwntools](cybersec/binary-exploitation/theory/pwntools/)
       * [Setting Up pwntools](cybersec/binary-exploitation/theory/pwntools/setting-up-pwntools.md)
