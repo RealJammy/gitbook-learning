@@ -48,6 +48,7 @@
     * [Defeating ASLR and PIE](cybersec/binary-exploitation/defeating-defences/defeating-aslr-and-pie.md)
     * [Defeating NX](cybersec/binary-exploitation/defeating-defences/defeating-nx.md)
     * [Defeating RELRO](cybersec/binary-exploitation/defeating-defences/defeating-relro.md)
+* [Reverse Engineering](cybersec/reverse-engineering.md)
 
 ## Computer Science
 

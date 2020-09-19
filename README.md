@@ -57,6 +57,8 @@ Anything marked with `***` needs to be done
     * \*\*\* [Defeating NX](cybersec/binary-exploitation/defeating-defences/defeating-nx.md)
     * \*\*\*[ Defeating RELRO](cybersec/binary-exploitation/defeating-defences/defeating-relro.md)
 
+### Reverse Engineering
+
 ## Computer Science
 
 [https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
