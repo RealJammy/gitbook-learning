@@ -51,6 +51,8 @@ Anything marked with `***` needs to be done
       * [\(SIG\)ROP](cybersec/binary-exploitation/attacks/stack/sigrop.md)
       * [Ret2dlresolve](cybersec/binary-exploitation/attacks/stack/ret2csu.md)
     * [Heap](cybersec/binary-exploitation/attacks/heap/)
+      * [Type Confusion](cybersec/binary-exploitation/attacks/heap/type-confusion.md)
+      * [Heap Feng Shui](cybersec/binary-exploitation/attacks/heap/heap-feng-shui.md)
   * \*\*\* [Defeating Defences](cybersec/binary-exploitation/defeating-defences/)
     * \*\*\* [Defeating Stack Canaries](cybersec/binary-exploitation/defeating-defences/defeating-stack-canaries.md)
     * \*\*\* [Defeating ASLR and PIE](cybersec/binary-exploitation/defeating-defences/defeating-aslr-and-pie.md)

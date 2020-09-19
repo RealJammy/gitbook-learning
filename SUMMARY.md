@@ -44,6 +44,7 @@
       * [Ret2dlresolve](cybersec/binary-exploitation/attacks/stack/ret2csu.md)
     * [Heap](cybersec/binary-exploitation/attacks/heap/README.md)
       * [Type Confusion](cybersec/binary-exploitation/attacks/heap/type-confusion.md)
+      * [Heap Feng Shui](cybersec/binary-exploitation/attacks/heap/heap-feng-shui.md)
   * [Defeating Defences](cybersec/binary-exploitation/defeating-defences/README.md)
     * [Defeating Stack Canaries](cybersec/binary-exploitation/defeating-defences/defeating-stack-canaries.md)
     * [Defeating ASLR and PIE](cybersec/binary-exploitation/defeating-defences/defeating-aslr-and-pie.md)
