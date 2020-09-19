@@ -50,7 +50,7 @@ Anything marked with `***` needs to be done
       * [Stack Pivoting](cybersec/binary-exploitation/attacks/stack/stack-pivotting.md)
       * [\(SIG\)ROP](cybersec/binary-exploitation/attacks/stack/sigrop.md)
       * [Ret2dlresolve](cybersec/binary-exploitation/attacks/stack/ret2csu.md)
-    * [Heap](cybersec/binary-exploitation/attacks/heap.md)
+    * [Heap](cybersec/binary-exploitation/attacks/heap/)
   * \*\*\* [Defeating Defences](cybersec/binary-exploitation/defeating-defences/)
     * \*\*\* [Defeating Stack Canaries](cybersec/binary-exploitation/defeating-defences/defeating-stack-canaries.md)
     * \*\*\* [Defeating ASLR and PIE](cybersec/binary-exploitation/defeating-defences/defeating-aslr-and-pie.md)
