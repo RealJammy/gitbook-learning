@@ -40,6 +40,7 @@ Anything marked with `***` needs to be done
     * [Why move from 32 to 64 bit?](cybersec/binary-exploitation/untitled/why-move-from-32-to-64-bit.md)
     * [Randomising struct layout](cybersec/binary-exploitation/untitled/defence-randomising-struct-layout.md)
     * [RELRO](cybersec/binary-exploitation/untitled/relro.md)
+    * [SGX](cybersec/binary-exploitation/untitled/sgx.md)
   * [Attacks](cybersec/binary-exploitation/attacks/)
     * [Attacks Of Today](cybersec/binary-exploitation/attacks/attacks-of-today.md)
     * [Stack](cybersec/binary-exploitation/attacks/stack/)
