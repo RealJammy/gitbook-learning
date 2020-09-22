@@ -46,6 +46,7 @@
       * [JOP](cybersec/binary-exploitation/attacks/stack/jop.md)
       * [Ret2dlresolve](cybersec/binary-exploitation/attacks/stack/ret2csu.md)
       * [Ret2csu](cybersec/binary-exploitation/attacks/stack/ret2csu-1.md)
+      * [Ret2reg](cybersec/binary-exploitation/attacks/stack/ret2reg.md)
     * [Heap](cybersec/binary-exploitation/attacks/heap/README.md)
       * [Type Confusion](cybersec/binary-exploitation/attacks/heap/type-confusion.md)
       * [Heap Feng Shui](cybersec/binary-exploitation/attacks/heap/heap-feng-shui.md)
