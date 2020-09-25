@@ -1,7 +1,7 @@
 # Table of contents
 
 * [EuanB26 Resources](README.md)
-* [Contact](contact.md)
+* [About Me](about_me.md)
 
 ## Cyber Sec <a id="cybersec"></a>
 

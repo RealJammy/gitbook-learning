@@ -6,7 +6,7 @@ Anything marked with `***` needs to be done
 
 ## Contact
 
-[Contact](contact.md)
+[Contact](about_me.md)
 
 ## Cyber Security
 
