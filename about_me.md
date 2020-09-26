@@ -12,6 +12,10 @@ I am an active learner in the world of cyber-security, having specialised in rev
 
 This encompasses cyber-security topics, computer science topics and programming languages. It furthers my understanding of these topics, and teaching is what I like to do to help others understand.
 
+I am also going to be making some challenges which'll be released on the John Hammond Discord server! If you would like to have a go and put some of these skills to the test, come on in and have a go!
+
+{% embed url="https://www.johnhammond.org/" caption="John Hammond\'s website" %}
+
 If you would like to see any updates to this website, feel free to make an issue on the github repo
 
 {% embed url="https://github.com/EuanB26/gitbook-learning" %}
