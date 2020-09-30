@@ -59,6 +59,7 @@
     * [Defeating NX](cybersec/binary-exploitation/defeating-defences/defeating-nx.md)
     * [Defeating RELRO](cybersec/binary-exploitation/defeating-defences/defeating-relro.md)
 * [Reverse Engineering](cybersec/reverse-engineering.md)
+* [Mobile Rev + Pwn](cybersec/mobile-rev-+-pwn.md)
 
 ## Computer Science
 
