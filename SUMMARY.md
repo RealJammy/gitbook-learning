@@ -53,6 +53,7 @@
       * [Printf \_\_malloc\_hook](cybersec/binary-exploitation/attacks/heap/printf-__malloc_hook.md)
       * [Use After Free](cybersec/binary-exploitation/attacks/heap/use-after-free.md)
       * [Heap Overflow](cybersec/binary-exploitation/attacks/heap/heap-overflow.md)
+      * [Heap Spray](cybersec/binary-exploitation/attacks/heap/heap-spray.md)
   * [Defeating Defences](cybersec/binary-exploitation/defeating-defences/README.md)
     * [Defeating Stack Canaries](cybersec/binary-exploitation/defeating-defences/defeating-stack-canaries.md)
     * [Defeating ASLR and PIE](cybersec/binary-exploitation/defeating-defences/defeating-aslr-and-pie.md)
