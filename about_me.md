@@ -2,7 +2,7 @@
 
 ### Heya!! Welcome to my website!
 
-My name is Euan \(alias of EuanB26\) and I'm a year 13 student in the UK. I'm currently doing my A-levels, studying Maths, Further Maths, Computer Science and Physics. I'm a co-founder's of The WinRaRs, our CTF team in which we place in a range between 60th to 80th [https://ctftime.org/team/113086](https://ctftime.org/team/113086) . Our website is up and running here:
+My name is Euan \(alias of EuanB26\) and I'm a year 13 student in the UK. I'm currently doing my A-levels, studying Maths, Further Maths, Computer Science and Physics. I'm a co-founder of The WinRaRs, our CTF team in which we place in a range between 60th to 80th [https://ctftime.org/team/113086](https://ctftime.org/team/113086) . Our website is up and running here:
 
 {% embed url="https://the-winrars.gitbook.io/references/" %}
 
@@ -23,7 +23,7 @@ If you would like to see any updates to this website, feel free to make an issue
 If you would like to know more, you can contact me through email or discord
 
 {% hint style="info" %}
-Discord: euanb26\#3764
+Discord: Tango\#3764
 {% endhint %}
 
 {% hint style="info" %}
